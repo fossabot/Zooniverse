@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FSebastianoPistore%2FZooniverse.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FSebastianoPistore%2FZooniverse?ref=badge_shield)
+
 Some terminology
 ================
 
@@ -148,3 +150,7 @@ i18n
 ====
 
 Each new language adds about 1.4kb gzipped. So we need to be careful about how many languages we add.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FSebastianoPistore%2FZooniverse.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FSebastianoPistore%2FZooniverse?ref=badge_large)
